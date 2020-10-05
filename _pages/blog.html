@@ -1,28 +1,11 @@
 ---
 layout: page
-title: Blogs
+title: CV
 ---
-<!-- blog -->
-<section class="section">
-  <div class="container">
-    <div class="row">
-      {% for post in site.posts %}
-      {% include post.html %}
-      {% endfor %}
-    </div>
-  </div>
-</section>
-<!-- /blog -->
+Download my CV <a href = "https://ngbrianyc.github.io/assets/pdfs/Update Resume.pdf"> here</a>.
 
-<!-- clients -->
-<section class="section bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">My Clients</h2>
-      </div>
-    </div>
-    {% include client-slider.html %}
-  </div>
-</section>
-<!-- /clients -->
+<!-- insert just before the closing body tag </body> -->
+<script src='/path-to-your-javascript-file/pdfobject.js'></script>
+<script>
+PDFObject.embed("https://ngbrianyc.github.io/assets/pdfs/Update Resume.pdf");
+</script>
