@@ -3,6 +3,7 @@ layout: about
 title: CV
 url: /cv
 ---
+
 Download my CV <a href = "https://ngbrianyc.github.io/assets/pdfs/Update Resume.pdf"> here</a>.
 
 <object data="https://ngbrianyc.github.io/assets/pdfs/Update Resume.pdf" type="application/pdf" width="60%" height="60%">
