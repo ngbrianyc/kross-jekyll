@@ -1,6 +1,7 @@
 ---
 layout: about
 title: CV
+url: /cv
 ---
 Download my CV <a href = "https://ngbrianyc.github.io/assets/pdfs/Update Resume.pdf"> here</a>.
 
