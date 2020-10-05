@@ -8,7 +8,7 @@ description: brian ng's personal website
 email: ngbrianyc@gmail.com
 phone: +852 93115054
 address: 188 Canton Road
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: 
 
 menu:
 - {name: About, link: '/about'}
