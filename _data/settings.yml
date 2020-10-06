@@ -92,12 +92,12 @@ blurb-btn-name: know more
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
-skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+# skills-title: Skills
+# skills:
+# - {name: Web Design, color: '#fdb157', value: '90%'}
+# - {name: Logo Design, color: '#9473e6', value: '60%'}
+# - {name: After Effects, color: '#bdecf6', value: '80%'}
+# - {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -124,26 +124,26 @@ skills:
 #-------------------------------
 # Services Section
 
-services-title: Services
-services:
-- {
-    name: UI Design,
-    icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-- {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
-  }
-- {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
+# services-title: Services
+# services:
+# - {
+#     name: UI Design,
+#     icon: ti-palette,
+#     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#     active: # Add true to select section
+#   }
+# - {
+#     name: UX Design,
+#     icon: ti-vector,
+#     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#     active: true # Add true to select section
+#   }
+# - {
+#     name: Interaction Design,
+#     icon: ti-panel,
+#     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+#     active: # Add true to select section
+#   }
 
 
 
@@ -152,20 +152,20 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/acm_wordmark+logo.png"
+    url: "https://www.figma.com/file/wcgZCapVWhPeULPHPAcUyx/Assets-v3?node-id=142%3A133"
     
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://edwardminchin.github.io/"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  # - image : "assets/images/portfolio/item-3.png"
+  #   url: "#"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+  # - image : "assets/images/portfolio/item-4.png"
+  #   url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  # - image : "assets/images/portfolio/item-5.png"
+  #   url: "#"
 
 
 # Portfolio Page
@@ -174,64 +174,64 @@ portfolio-label:
     title : "UI/UX Design",
     type : "design"
   }
-- {
-    title : "BRANDING",
-    type : "branding"
-  }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
-  }
+# - {
+#     title : "BRANDING",
+#     type : "branding"
+#   }
+# - {
+#     title : "ILLUSTRATION",
+#     type : "illustration"
+#   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/acm_wordmark+logo.png"
+    url: "https://www.figma.com/file/wcgZCapVWhPeULPHPAcUyx/Assets-v3?node-id=142%3A133"
     portfolio-type:
      - type: "design"
      - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://edwardminchin.github.io/"
     portfolio-type:
-      - type: "branding"
+      - type: "design"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
       - type: "illustration"
       
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+  # - image : "assets/images/portfolio/item-6.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "design"
+  #     - type: "branding"
       
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  # - image : "assets/images/portfolio/item-8.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "illustration"
       
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
+  # - image : "assets/images/portfolio/item-5.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "design"
       
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+  # - image : "assets/images/portfolio/item-1.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+  # - image : "assets/images/portfolio/item-3.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "design"
+  #     - type: "illustration"
+  #     - type: "branding"
       
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  # - image : "assets/images/portfolio/item-7.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "illustration"
 
 
 #-------------------------------
