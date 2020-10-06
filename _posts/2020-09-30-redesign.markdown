@@ -1,0 +1,13 @@
+---
+layout: post
+title:  UCLA ACM Rebranding
+date:   2020-9-26
+image:  /assets/images/portfolio/redesign.png
+author: Brian Ng
+---
+
+
+
+Being a part of ACM Design, we were tasked with the re-branding and re-design of ACM's overall brand and design of specific committees. I was tasked with updating the UI design of committee-specific website through creating Figma wireframes, ensuring that my designs followed the new design guidelines that we came up with. I also assisted in creating 
+
+Showcase of work [here](https://www.figma.com/file/wcgZCapVWhPeULPHPAcUyx/Assets-v3?node-id=142%3A133)

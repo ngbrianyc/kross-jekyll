@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Mahjong/Smash Leaderboard Server
+date:   2020-9-26
+image:  /assets/images/portfolio/smash.png
+author: Brian Ng
+---
+
+Being a part of ACM Design, we were tasked with the re-branding and re-design of ACM's overall brand and design of specific committees. I was tasked with updating the UI design of committee-specific website.
+Showcase of work [here](https://gitlab.com/smash-saturday/mahjong-score/-/tree/master)

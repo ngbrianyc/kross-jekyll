@@ -14,6 +14,7 @@ menu:
 - {name: About, link: '/about'}
 - {name: CV, link: '/cv'}
 - {name: Portfolio, link: '/portfolio'}
+# - {name: Blog, link: '/blog'}
 # - {name: Random Stuff, link: '/contact'}
 
 
@@ -184,14 +185,14 @@ portfolio-home-items:
 #   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/Frame 2.png"
+  - image : "assets/images/portfolio/redesign.png"
     url: "https://www.figma.com/file/wcgZCapVWhPeULPHPAcUyx/Assets-v3?node-id=142%3A133"
     description: "UCLA ACM Rebranding"
     portfolio-type:
      - type: "design"
      - type: "illustration"
       
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/prof1.png"
     description: "Website Building for Professor Edward Minchin"
     url: "https://edwardminchin.github.io/"
     portfolio-type:
