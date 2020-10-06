@@ -1,26 +1,30 @@
 <!-- footer -->
-<footer class="bg-dark footer-section">
-  <div class="section">
+<style>
+  footer {padding-top: 10px; }
+
+</style>
+<footer class="bg-dark footer-section" style = "padding-top: 20px">
+  <div class="section" style = "padding-top: 10px; padding-bottom: 10px;">
     <div class="container">
       <div class="row">
         <div class="col-md-4">
           <h5 class="text-light">Email</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
+          <p style = "font-size: 10px;"class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
         </div>
         <div class="col-md-4">
           <h5 class="text-light">Phone</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.phone }}</p>
+          <p style = "font-size: 10px;"class="text-white paragraph-lg font-secondary">{{ site.data.settings.phone }}</p>
         </div>
         <div class="col-md-4">
           <h5 class="text-light">Address</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.address }}</p>
+          <p style = "font-size: 10px;" class="text-white paragraph-lg font-secondary">{{ site.data.settings.address }}</p>
         </div>
       </div>
     </div>
   </div>
-  <div class="border-top text-center border-dark py-5">
+  <!-- <div class="border-top text-center border-dark py-5">
     <p class="mb-0 text-light">{{site.data.settings.copyright | markdownify}}</p>
-  </div>
+  </div> -->
 </footer>
 <!-- /footer -->
 
