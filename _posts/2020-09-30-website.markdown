@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  UCLA ACM Rebranding
+title:  Dr. Edward Minchin's Personal Website
 date:   2020-9-26
 image:  /assets/images/portfolio/prof1.png
 author: Brian Ng
 ---
 
-Being a part of ACM Design, we were tasked with the re-branding and re-design of ACM's overall brand and design of specific committees. I was tasked with updating the UI design of committee-specific website.
+I had been asked to create a personal website for Dr. Edward Minchin, a professor at the University of Florida. I used Jekyll to create a simple static website, and used HTML, CSS and Markdown to customize the website. At first, I was under the impression that Professor Minchin requested an academic-styled website, and hence I customized the Minimal Mistakes Jekyll layout to create an accessible, professional-looking website. However, as I started to develop the site, I realized that Professor Minchin was intending to use it as his personal website, so I am now currently iterating through several designs to create a more personalized look for him.
 
 Showcase of work [here]("https://edwardminchin.github.io/")
