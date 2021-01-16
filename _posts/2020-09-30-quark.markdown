@@ -2,7 +2,7 @@
 layout: post
 title:  Quark - Education-focused Online IDE
 date:   2020-9-26
-image:  /assets/images/portfolio/prof1.png
+image:  /assets/images/examples/example1.png
 author: Brian Ng
 ---
 
