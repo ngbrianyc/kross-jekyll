@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Quark - Education-focused Online IDE
+date:   2020-9-26
+image:  /assets/images/portfolio/prof1.png
+author: Brian Ng
+---
+
+## Context
+Within UCLA's CS-related courses, there are common pain points that occur for both professors and students. Professors usually have to document on how to set-up workspaces for students, require a hub that would distribute specifications to students. Students sometimes lack the computing power for assignments, or are not experienced enough to set up effective work environments. Quark aims to solve these problems by providing an online IDE that enables instructors to more directly communicate with students, and for students to navigate assignments more easily.
+
+## Design Process
+
+### 1. Features and User Flow
+My team discussed and decided on these design features:
+* Hints if stuck on problems
+* Highlight text to flag for advice
+* Ability to code and look at specifications at the same time
+* File system for organizing previous projects
+I then mapped out user flow diagram in order to keep track of how these features were to be implemented
+
+### 2. Inspiration
+I incorporated designs and layouts from major websites such as LeetCode, HackerRank, Repl.it to have a sense of how much space is required for the user to both code, read documentation and read the output of the console effectively.
+<img src = "assets\images\examples\image_1556071101.png">
+
+### 3. Design
+From the inspiration and references, I started creating low-fidelity wireframes to get a sense of the overall layout of the web app and if it made sense to my previous user-flow. Then, with feedback from teammates I produced drafts of a high-fidelity wireframe. Web-app is still under development and future iterations may be added to the design.
+
+Current prototype shown below:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F1TIsdkflrGgguMPbCtZcH5%2FSapphire-Tundra%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom" allowfullscreen></iframe>
