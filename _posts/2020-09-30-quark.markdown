@@ -26,4 +26,6 @@ I incorporated designs and layouts from major websites such as LeetCode, HackerR
 ### 3. Design
 From the inspiration and references, I started creating low-fidelity wireframes to get a sense of the overall layout of the web app and if it made sense to my previous user-flow. Then, with feedback from teammates I produced drafts of a high-fidelity wireframe. Web-app is still under development and future iterations may be added to the design.
 
-Current prototype shown [here](https://www.figma.com/proto/1TIsdkflrGgguMPbCtZcH5/Sapphire-Tundra?node-id=1%3A2&scaling=min-zoom):
+Current prototype shown below:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="1024" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F1TIsdkflrGgguMPbCtZcH5%2FSapphire-Tundra%3Fnode-id%3D1%253A2%26scaling%3Dmin-zoom" allowfullscreen></iframe>
